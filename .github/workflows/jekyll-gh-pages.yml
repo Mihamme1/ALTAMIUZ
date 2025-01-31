@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALTAMIUZ - خدمات الدعاية والإعلان</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>أهلاً بكم في ALTAMIUZ لخدمات الدعاية والإعلان</h1>
+    </header>
+    <section class="services">
+        <h2>خدماتنا</h2>
+        <p>نقدم أفضل خدمات الدعاية والإعلان لمساعدتك في الترويج لعلامتك التجارية.</p>
+    </section>
+    <footer>
+        <p>للتواصل: <a href="mailto:alwathqmohammed@gmail.com">alwathqmohammed@gmail.com</a></p>
+        <p>هاتف: +249992350850 / +249120286928</p>
+    </footer>
+</body>
+</html>
